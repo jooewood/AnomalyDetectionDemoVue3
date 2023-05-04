@@ -1,4 +1,4 @@
-# AnomalyDetectionDemoVue3
+# Anomaly Detection Demo Vue3+TS+Element Plus+Pinia+Echarts
 
 Run back-end
 ```
