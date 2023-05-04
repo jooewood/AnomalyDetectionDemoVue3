@@ -1,5 +1,5 @@
 # Anomaly Detection Demo Vue3+TS+Element Plus+Pinia+Echarts
-![](p1.png)
+![](p1.jpg)
 Run back-end
 ```
 cd back-end
