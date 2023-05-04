@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "useDefineForClassFields": true,
+    "strict": true,
+    "jsx": "preserve",
+    "sourceMap": true,
+    "baseUrl": "./",
+    "types": ["node"],
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "skipLibCheck": true,
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "lib": ["ESNext", "DOM", "DOM.Iterable"]
+  },
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"]
+}
